@@ -6,6 +6,6 @@ I seek to create seamless and accessible applications, improve business processe
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/sailasantana/)
 
-📫 Reach me via email: [sailakath@gmail.com](mailto: sailakath@gmail.com)
+📫 Reach me via email: [sailakath@gmail.com](mailto:sailakath@gmail.com)
 
 
