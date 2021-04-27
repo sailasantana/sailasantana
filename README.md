@@ -1,8 +1,8 @@
 Software Engineer specializing in Node.js, React, and PostgreSQL! 
-I seek to create seamless and accessible applications, improve business processes, and automate the rest.
+I seek to create seamless and accessible applications, improve business processes, and solve socially relevant problems.
 
 
-👀 View my portfolio here: [Portfolio](www.sailasantana.com)
+👀 View my portfolio here: [Portfolio](https://sailasantana.com/)
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/sailasantana/)
 
