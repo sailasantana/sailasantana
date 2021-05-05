@@ -1,4 +1,4 @@
-Software Engineer specializing in Node.js, React, and PostgreSQL! 
+Software developer specializing in Node.js, React, and PostgreSQL! 
 I seek to create seamless and accessible applications, improve business processes, and solve socially relevant problems.
 
 
